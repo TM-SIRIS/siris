@@ -1,4 +1,4 @@
-# siris
+# SIRIS-EXCEL
 Outil de hiérarchisation de substances chimiques basé sur la méthode SIRIS
 
 L'outil est présenté sous forme d'un fichier excel comportant 7 feuilles de calcul.
@@ -7,7 +7,7 @@ Les feuilles de calcul "Calcul1", "Calcul2", et "Calcul3" ne doivent pas être m
 # Fonctionnement
 ## Définition des classes
 Dans la feuille "Principal", entrer le nombre de critère puis remplir la liste des ritères en indiquant leur nom, le nombre de modalité, et leur rang.
-* Il ne peut y a avoir que deux critères par classes
+* Il ne peut y a avoir que deux critères par classe
 * Il ne peut y avoir que 10 modalités par critère
 * Il ne faut pas effectuer de saut dans la numérotation des classes
 
